@@ -49,7 +49,6 @@ Echo. SID     = %SID%
 Echo. Path    = %WorkPath%
 Echo. Version = %Version%
 Echo. Drives  = %NumDrives%
-Echo.
 Pause
 Goto :Main
  
